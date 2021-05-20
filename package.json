@@ -1,0 +1,13 @@
+{
+  "name": "cermati-scraper",
+  "version": "1.0.0",
+  "description": "web scraper for https://www.cermati.com/artikel",
+  "main": "solution.js",
+  "author": "Doni Rahma Tiana",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.6",
+    "superagent": "^6.1.0"
+  }
+}
